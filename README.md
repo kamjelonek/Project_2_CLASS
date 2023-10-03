@@ -1,9 +1,1 @@
-# Project_2_ML
-# Project_2_ML
-# Project_2_ML
-# Project_2_ML
-# Project_2_ML
-# Project_2_CLASS
-# Project_2_CLASS
-# Project_2_CLASS
 # Project_2_CLASS
