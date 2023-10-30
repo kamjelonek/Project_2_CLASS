@@ -1,7 +1,7 @@
 # EEG-Based Drowsy Driver Monitoring
 
 ## Introduction
-The project aims to use machine learning to identify EEG signals to warn drowsy drivers against losing concentration. The problem affects road safety, and the analyzes carried out are an important source of data for business.
+The project aims to use machine learning to identify EEG signals to warn drowsy drivers against losing concentration. The problem affects road safety, and the analyses carried out provide a crucial source of data for businesses.
 
 ## Description of Features
 - **Attention** - Proprietary measure of mental focus from 0-100 
@@ -14,7 +14,7 @@ The project aims to use machine learning to identify EEG signals to warn drowsy 
 - **HighBeta** - Higher 12-29 Hz of power spectrum 
 - **LowGamma** - Lower 30-100 Hz of power spectrum 
 - **HighGamma** - Higher 30-100 Hz of power spectrum 
-- **Classification** - (0-sleepy/1-awake)
+- **Classification** - (0-drowsy/1-awake)
 
 ## Business Applications
 ### Monitoring Professional Drivers
