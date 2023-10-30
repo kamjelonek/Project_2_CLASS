@@ -16,15 +16,51 @@ lowGamma - Lower 30-100 Hz of power spectrum
 highGamma - Higher 30-100 Hz of power spectrum
 classification - (0-sleepy/1-awake)
 
-# Other uses
+# EEG-Based Drowsy Driver Monitoring: Business Applications
 
-Monitoring Professional Drivers: Transportation companies can install EEG systems in trucks or buses to monitor the drivers' state in real-time and prevent accidents caused by fatigue.
-Insurance: Insurance companies could offer lower rates to drivers using EEG monitoring systems as a safety-enhancing mechanism.
-Autonomous Cars: In the context of emerging autonomous vehicle technologies, these systems can serve as an additional condition for switching between manual and autonomous modes.
-Mobile Apps: Companies can develop mobile applications that work in conjunction with portable EEG devices to inform drivers of their condition and suggest driving breaks.
-Consumer Products: For individual drivers, portable EEG devices can be offered as an add-on to existing in-car navigation and safety systems.
-Marketing and Advertising: Companies can use positive research outcomes and statistics related to EEG technology as a marketing tool.
-Personalized Driving Experience: Based on EEG data, in-car systems can adjust settings (e.g., air conditioning, music) to help the driver maintain an optimal level of attention.
+## Table of Contents
+- [Monitoring Professional Drivers](#monitoring-professional-drivers)
+- [Insurance](#insurance)
+- [Autonomous Cars](#autonomous-cars)
+- [Mobile Apps](#mobile-apps)
+- [Consumer Products](#consumer-products)
+- [Marketing and Advertising](#marketing-and-advertising)
+- [Personalized Driving Experience](#personalized-driving-experience)
+
+---
+
+### Monitoring Professional Drivers
+Transportation companies can install EEG systems in trucks or buses to monitor the drivers' state in real-time and prevent accidents caused by fatigue.
+
+---
+
+### Insurance
+Insurance companies could offer lower rates to drivers using EEG monitoring systems as a safety-enhancing mechanism.
+
+---
+
+### Autonomous Cars
+In the context of emerging autonomous vehicle technologies, these systems can serve as an additional condition for switching between manual and autonomous modes.
+
+---
+
+### Mobile Apps
+Companies can develop mobile applications that work in conjunction with portable EEG devices to inform drivers of their condition and suggest driving breaks.
+
+---
+
+### Consumer Products
+For individual drivers, portable EEG devices can be offered as an add-on to existing in-car navigation and safety systems.
+
+---
+
+### Marketing and Advertising
+Companies can use positive research outcomes and statistics related to EEG technology as a marketing tool.
+
+---
+
+### Personalized Driving Experience
+Based on EEG data, in-car systems can adjust settings (e.g., air conditioning, music) to help the driver maintain an optimal level of attention.
 
 # Dataset
 
