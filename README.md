@@ -1,8 +1,6 @@
 # Introduction
-In this section, we provide essential background knowledge on the methods used to reduce road crashes.
-Also, the danger that a drowsy driver may cause during driving may lead to road accidents and non-fatal
-injuries. In addition to the motivation for developing a brain computer interface (BCI) to alert drowsy
-drivers.
+The project aims to use machine learning to identify EEG signals to warn drowsy drivers against losing concentration. 
+The problem affects road safety, and the analyzes carried out are an important source of data for business.
 
 # Description of Features
 
@@ -20,11 +18,13 @@ classification - (0-sleepy/1-awake)
 
 # Other uses
 
-The device can be synchronized with the vehicle so that when the driver's alertness decreases, it will trigger an alarm.
-The data collected in this way can also be used by insurance companies to offer rested drivers lower vehicle insurance costs.
-Transportation companies can also use such data to check whether professional drivers are adhering to schedules.
-Adjusting the lighting in luxury cars according to the driver's condition.
-
+Monitoring Professional Drivers: Transportation companies can install EEG systems in trucks or buses to monitor the drivers' state in real-time and prevent accidents caused by fatigue.
+Insurance: Insurance companies could offer lower rates to drivers using EEG monitoring systems as a safety-enhancing mechanism.
+Autonomous Cars: In the context of emerging autonomous vehicle technologies, these systems can serve as an additional condition for switching between manual and autonomous modes.
+Mobile Apps: Companies can develop mobile applications that work in conjunction with portable EEG devices to inform drivers of their condition and suggest driving breaks.
+Consumer Products: For individual drivers, portable EEG devices can be offered as an add-on to existing in-car navigation and safety systems.
+Marketing and Advertising: Companies can use positive research outcomes and statistics related to EEG technology as a marketing tool.
+Personalized Driving Experience: Based on EEG data, in-car systems can adjust settings (e.g., air conditioning, music) to help the driver maintain an optimal level of attention.
 
 # Dataset
 
