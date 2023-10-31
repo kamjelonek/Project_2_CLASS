@@ -25,7 +25,7 @@ This project uses the following libraries:
 - seaborn
 - scikit-learn
 
-Wykonano następujące kroki:
+The following steps were carried out:
 
 - Data review
 - Missing data inspection
