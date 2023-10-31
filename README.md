@@ -19,19 +19,19 @@ The project aims to use machine learning to identify EEG signals to warn drowsy 
 ## Requirements
 This project uses the following libraries:
 
-- `numpy`
-- `pandas`
-- `matplotlib`
-- `seaborn`
-- `scikit-learn`
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
 
 Wykonano następujące kroki:
 
-- `Data review`
-- `Missing data inspection`
-- `Data preparation`
-- `Trening training – 4 models employed: RidgeClassifier, KNeighborsClassifier, DecisionTreeClassifier and RandomForestClassifier`
-- `All models have been saved and the RandomForestClassifier achieved the highest accuracy with a score of 74% `
+- Data review
+- Missing data inspection
+- Data preparation
+- Trening training – 4 models employed: RidgeClassifier, KNeighborsClassifier, DecisionTreeClassifier and RandomForestClassifier
+- All models have been saved and the RandomForestClassifier achieved the highest accuracy with a score of 74% 
 
 ## Dataset
 [Sleepy Driver EEG Brainwave Data on Kaggle](https://www.kaggle.com/datasets/naddamuhhamed/sleepy-driver-eeg-brainwave-data/discussion/438246)
