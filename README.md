@@ -1,4 +1,4 @@
-# Binary classification of EEG signals of drowsy drivers
+# Binary Classification of Drowsy Drivers' EEG Waves
 
 ## Introduction
 The project aims to use machine learning to identify EEG signals to warn drowsy drivers against losing concentration. The problem affects road safety, and the analyses carried out provide a crucial source of data for businesses.
